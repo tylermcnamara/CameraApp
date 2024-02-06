@@ -1,4 +1,5 @@
 {
+    "id": "ddf291f5-1857-45cf-9f6b-c3128eb25f3a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -6,7 +7,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(155, 155, 155, 1)",
+        "BackgroundColor": "rgba(208, 2, 27, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,7 +32,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(155, 155, 155, 1)"
+            "backgroundColor": "rgba(208, 2, 27, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -414,7 +415,6 @@
             "name": "Title_Main"
         }
     ],
-    "id": "ddf291f5-1857-45cf-9f6b-c3128eb25f3a",
     "thunkableVersion": 443,
     "name": "Main_Screen"
 }

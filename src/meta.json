@@ -47,6 +47,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -104,7 +105,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "CSC305: A1 - Camera App",
+            "projectName": "CSC305: A1 - CameraApp_dev",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -212,10 +213,16 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "1a936d1c-e181-4c2d-91f9-117eac4766d3": {
+                    "scope": "APP",
+                    "name": "voice",
+                    "screenId": "355eda3a-8a99-45b8-93c7-7cac9a09eeb5"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
